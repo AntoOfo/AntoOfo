@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">A passionate developer from Ireland</h3>
 
-- 🔭 I’m currently working on [To-Do List App](https://github.com/AntoOfo/To-Do-List-App)
-
 - 🌱 I’m currently learning **Kotlin, Android Studio**
 
 - 📫 How to reach me **Ofodile-A@ulster.ac.uk**

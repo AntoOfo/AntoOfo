@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **Ofodile-A@ulster.ac.uk**
 
-- ⚡ Fun fact **I'm cool**
+- ⚡ Fun fact: **I'm cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

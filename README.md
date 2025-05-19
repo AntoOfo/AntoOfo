@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Android Studio**
 
-- 📫 How to reach me **Ofodile-A@ulster.ac.uk**
+- 📫 How to reach me **Antonioofodileuk@gmail.com**
 
 - ⚡ Fun fact: **I'm cool**
 

@@ -1,6 +1,8 @@
 <h1 align="center" style="color:#007FFF;">Hi, I'm Antonio! 🌊</h1>
 <h3 align="center">A passionate developer from Ireland</h3>
 
+---
+
 - 🌀 I’m currently learning: **Jetpack Compose**  
 - 📫 How to reach me: **Antonioofodileuk@gmail.com**  
 - ❄️ Fun fact: **I'm cool, super cool**

@@ -55,4 +55,3 @@
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antoofo&theme=dark" alt="antoofo" /></p>

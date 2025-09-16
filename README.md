@@ -1,57 +1,38 @@
-<h1 align="center">Hi, I'm Antonio!👋</h1>
-<h3 align="center">A passionate developer from Ireland</h3>
-
-- 🌱 I’m currently learning: **React JS**
-
-- 🤔 How to reach me: **Antonioofodileuk@gmail.com**
-
-- 👉 Fun fact: **I think I'm cool**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/antonioofodile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonioofodile" height="30" width="40" /></a>
+<p align="center">
+  <img src="img/checkered_3.png" alt="Banner" width="100%" height=20>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-</p>
+# Hi, I'm Antonio <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="30" style="transform: scaleX(-1);" />
 
+Web & Mobile Developer | Turning ideas into apps 
+
+📍 Based in Ireland  
+📧 [Email me](mailto:Antonioofodileuk@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/antonioofodile)  
+
+---
+
+## Skills 
+
+<a>
+  <img src="https://media.tenor.com/aML3XscdtxMAAAAi/aol-guy.gif" align="right" width="300"  />
+</a>
+
+### Web Development
+![React](https://img.shields.io/badge/React-FF5500?logo=react&logoColor=black&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF7A5B?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-FF5500?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-FF7A5B?logo=css3&logoColor=white&style=for-the-badge)
+
+### Mobile Development
+![Android](https://img.shields.io/badge/Android-FF5500?logo=android&logoColor=white&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-FF7A5B?logo=kotlin&logoColor=white&style=for-the-badge)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-FF5500?logo=jetpackcompose&logoColor=white&style=for-the-badge)
+
+### Backend & Tools
+![Java](https://img.shields.io/badge/Java-FF7A5B?logo=java&logoColor=white&style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-FF5500?logo=springboot&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-FF7A5B?logo=python&logoColor=white&style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-FF5500?logo=opencv&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF7A5B?logo=tensorflow&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-FF5500?logo=figma&logoColor=white&style=for-the-badge)

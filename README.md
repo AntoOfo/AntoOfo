@@ -23,6 +23,10 @@ Web & Mobile Developer | Turning ideas into apps
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFDDA5?logo=javascript&logoColor=black&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-FF7A5B?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-FFDDA5?logo=css3&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-FF7A5B?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-FFDDA5?style=for-the-badge)
+
+
 
 ### Mobile Development
 ![Android](https://img.shields.io/badge/Android-FF7A5B?logo=android&logoColor=white&style=for-the-badge)
